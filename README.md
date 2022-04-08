@@ -1,6 +1,6 @@
-### Hi there, I'm Kerli Schroeder 👋
+### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistic to tecnology. Completly focus to improve my hard skills knowledge.
 
-- 🔭 I’m currently working on being a good student to get a lot of knowledge.
+- 🔭 I’m currently student of Trybe, on class XP.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I like board games, and watch tv shows that have a sense of humor, like Modern family, The Amazing World of Gumball.
 
@@ -32,8 +32,10 @@
  
 <div>
   <h4>Do you want reach me? Please, follow one of the icons down there.</h4>
-  <a href = "mailto:kerlischroeder9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kerlischroeder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:kerlischroeder9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://t.me/Kerli9" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
  </div>
