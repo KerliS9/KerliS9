@@ -1,9 +1,8 @@
-### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistic to tecnology. Completly focus to improve my knowledge.
+### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistics to tecnology.
 
-- 🔭 I’m currently student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end.
-- 
+- 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end. 
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I like board games, and watch tv shows that have a sense of humor, like Modern family, The Amazing World of Gumball.
+- ⚡ Fun fact: I like board games, and watch tv shows that have some sense of humor, like Modern family, The Amazing World of Gumball.
 
 
 <div style="display: inline_block">
@@ -17,16 +16,16 @@
     <img align="center" alt="Kerli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Kerli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-  <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
-   <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Kerli-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+  <img align="center" alt="Kerli-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
+   <img align="center" alt="Kerli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   </div>
 </div>
   
   ##
  
 <div>
-  <h4>Do you want reach me? Please, follow one of the icons down there.</h4>
+  <h4>If you want to reach me, please, follow one of the icons below.</h4>
   <a href="https://www.linkedin.com/in/kerlischroeder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href = "mailto:kerlischroeder9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
