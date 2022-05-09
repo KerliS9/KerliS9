@@ -8,7 +8,8 @@
 <div style="display: inline_block">
   <a href="https://github.com/KerliS9">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerliS9&layout=compact&langs_count=7&theme=ayu-mirage"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+    
 <div style="display: flex">
   </div>
     <h4>Some tecnologies that i've already have contact with</h4>
@@ -17,8 +18,8 @@
     <img align="center" alt="Kerli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Kerli-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-  <img align="center" alt="Kerli-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
-   <img align="center" alt="Kerli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Kerli-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
+    <img align="center" alt="Kerli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   </div>
 </div>
   
