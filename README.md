@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistic to tecnology. Completly focus to improve my hard skills knowledge.
+### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistic to tecnology. Completly focus to improve my knowledge.
 
-- 🔭 I’m currently student of Trybe, on class XP.
+- 🔭 I’m currently student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end.
+- 
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I like board games, and watch tv shows that have a sense of humor, like Modern family, The Amazing World of Gumball.
 
@@ -11,20 +12,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
 <div style="display: flex">
   </div>
-    <h4>I’m currently learning</h4>
+    <h4>Some tecnologies that i've already have contact with</h4>
   <div style="display: inline"><br>
     <img align="center" alt="Kerli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Kerli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  <div style="display: inline">
-    <h4>Hard skills I will learn.</h4>
-    <img align="center" alt="Kerli-Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="Node-React" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Kerli-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Kerli-Typescript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Kerli-Mongodb" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" alt="Kerli-Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+  <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
+   <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   </div>
 </div>
   
