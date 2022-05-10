@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistics to tecnology.
+### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistics to software developer.
 
 - 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end. 
 - 😄 Pronouns: she/her.
