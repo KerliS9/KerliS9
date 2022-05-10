@@ -32,4 +32,4 @@
   <a href="https://t.me/Kerli9" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
   <img ![](https://komarev.com/ghpvc/username=KerliS9&style=flat&color=green=&label=PROFILE+VIEWS)/> <br>
-  <img ![](https://komarev.com/ghpvc/KerliS9&style=flat-square&color=brightgreen&label=PROFILE+VIEWS)/>
+  <img ![](https://komarev.com/ghpvc/?username=kerlis9&style=flat-square&color=brightgreen&label=PROFILE+VIEWS) />
