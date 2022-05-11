@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Kerli. At the moment I'm changing my career from logistics to software developer.
 
-- 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end.
+- 🔭 I’m currently a student at Trybe, in XP class. At the moment  we're learning tecnologies that are used in the back-end.
 - :computer: Looking forward to learning new skills and add them to the list below.
 - 😄 Pronouns: she/her.
 - :closed_book: Book I liked the most : Adeus China!
