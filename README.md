@@ -1,19 +1,24 @@
 ### Hi there, 👋 I'm Kerli. At the moment I'm changing my career from logistics to software developer.
 
-- 🔭 I’m currently a student at Trybe, in XP class. At the moment  we're learning tecnologies that are used in the back-end.
+---
+
+- 🔭 I’m currently a student at <a href="https://betrybe.com">Trybe</a>, in XP class. At the moment  we're learning tecnologies that are used in the back-end.
 - :computer: Looking forward to learning new skills and add them to the list below.
 - 😄 Pronouns: she/her.
 - :closed_book: Book I liked the most : Adeus China!
 - ⚡ Fun fact: I like board games, and watch tv shows that have some sense of humor, like Modern family, The Amazing World of Gumball.
 
-- 📝 Veja meu Curriculum Vitae | Em construção <a href="https://gitconnected.com/kerlis9/resume" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/kerlis9/resume" target="_blank">clicando aqui</a> para mais informações.
 
+---
 
 <div style="display: inline_block">
   <a href="https://github.com/KerliS9">
    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerliS9&layout=compact&langs_count=7&theme=ayu-mirage"/> 
    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
    <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KerliS9&theme=ayu-mirage" alt="KerliS9"/>
+    
+---
 
   </div>
   <div style="display: flex">
@@ -38,7 +43,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/node
   </div>
 </div>
   
-  ##
+---
  
 <div style="display: inline_block">
   <h4>If you want to reach me, please, follow one of the icons below.</h4>
