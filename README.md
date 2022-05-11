@@ -6,6 +6,8 @@
 - :closed_book: Book I liked the most : Adeus China!
 - ⚡ Fun fact: I like board games, and watch tv shows that have some sense of humor, like Modern family, The Amazing World of Gumball.
 
+- 📝 Veja meu Curriculum Vitae | Em construção <a href="https://gitconnected.com/kerlis9/resume" target="_blank">clicando aqui</a> para mais informações.
+
 
 <div style="display: inline_block">
   <a href="https://github.com/KerliS9">
