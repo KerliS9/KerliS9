@@ -11,6 +11,7 @@
   <a href="https://github.com/KerliS9">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerliS9&layout=compact&langs_count=7&theme=ayu-mirage"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KerliS9&theme=ayu-mirage" alt="KerliS9"/>
     
 <div style="display: flex">
   </div>
@@ -22,6 +23,16 @@
     <img align="center" alt="Kerli-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
     <img align="center" alt="Kerli-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
     <img align="center" alt="Kerli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img  align="center" alt="Kerli-Docker" width="40" height="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img align="center" alt="Kerli-Express" width="40" height="40" color="white"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>    
+    <img align="center" alt="Kerli-Linux" width="40" height="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>    
+    <img align="center" alt="Kerli-MySql" width="40" height="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>    
+    <img align="center" alt="Kerli-NodeJS" width="40" height="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   </div>
 </div>
   
