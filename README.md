@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end. 
 - 😄 Pronouns: she/her.
+- :closed_book: Book I liked the most : Adeus China!
 - ⚡ Fun fact: I like board games, and watch tv shows that have some sense of humor, like Modern family, The Amazing World of Gumball.
 
 
