@@ -9,14 +9,14 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/KerliS9">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerliS9&layout=compact&langs_count=7&theme=ayu-mirage"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KerliS9&theme=ayu-mirage" alt="KerliS9"/>
-    
-<div style="display: flex">
+   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerliS9&layout=compact&langs_count=7&theme=ayu-mirage"/> 
+   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=KerliS9&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KerliS9&theme=ayu-mirage" alt="KerliS9"/>
+
   </div>
+  <div style="display: flex">
     <h4>Some tecnologies that i've already had contact with</h4>
-  <div style="display: inline"><br>
+  <div style="display: inline">
     <img align="center" alt="Kerli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Kerli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Kerli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
