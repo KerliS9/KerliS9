@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kerli, at the moment i'm changing my career from logistics to software developer.
 
-- 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end. 
+- 🔭 I’m currently a student of Trybe, on class XP. At the moment  we're learning tecnologies that are used on back-end.
+- :computer: Looking forward to learn new skills and add them in the list.
 - 😄 Pronouns: she/her.
 - :closed_book: Book I liked the most : Adeus China!
 - ⚡ Fun fact: I like board games, and watch tv shows that have some sense of humor, like Modern family, The Amazing World of Gumball.
