@@ -12,7 +12,7 @@
     
 <div style="display: flex">
   </div>
-    <h4>Some tecnologies that i've already have contact with</h4>
+    <h4>Some tecnologies that i've already had contact with</h4>
   <div style="display: inline"><br>
     <img align="center" alt="Kerli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Kerli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,5 +31,5 @@
   <a href = "mailto:kerlischroeder9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://t.me/Kerli9" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
-  <img ![](https://komarev.com/ghpvc/username=KerliS9&style=flat&color=green=&label=PROFILE+VIEWS)/> <br>
+  <img src=![](https://komarev.com/ghpvc/username=KerliS9&style=flat&color=green=&label=PROFILE+VIEWS)/> <br>
   <img ![](https://komarev.com/ghpvc/?username=kerlis9&style=flat-square&color=brightgreen&label=PROFILE+VIEWS) />
